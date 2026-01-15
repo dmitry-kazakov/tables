@@ -1,6 +1,6 @@
-This  directory  contains packages of the tables project as described in
-the documentation. See 
+<b>Tables</b>
+<p>This library provides contains packages to handle tables in Ada. A table is a mapping of stringo to some key. A table can be matched against a string to match the longest matched key.</p>
 
-   http://www.dmitry-kazakov.de/ada/tables.htm
+Home page: http://www.dmitry-kazakov.de/ada/tables.htm
 
-The subdirectory test_tables contains self-tests.
+Changes log: https://www.dmitry-kazakov.de/ada/tables.htm#changes_log
